@@ -3,8 +3,6 @@ package ru.nikita.problem283;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.Arrays;
-
 class MoveZeroesTest {
 
     @Test
